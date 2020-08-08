@@ -1,0 +1,2 @@
+# two-phase-commit-implementation-java
+Protocole de validation en deux phases Dans le traitement des transactions, les bases de données et les réseaux informatiques, le protocole de validation en deux phases (2PC) est un type de protocole d'engagement atomique (ACP). C'est un algorithme distribué qui coordonne tous les processus qui participent à une transaction atomique distribuée pour savoir s'il faut valider ou abandonner (annuler) la transaction (c'est un type spécialisé de protocole de consensus).
